@@ -1,0 +1,3 @@
+public double calcularprecio (int unidades, double preciounitario) {
+	return unidades * preciounitario;
+}
